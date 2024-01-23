@@ -4,11 +4,47 @@
 </p>
 
 <h3 align="center">「 Hi there 👋, I'm James 」</h3>
-<p align="center">Node and frontend JS developer contributing to OSS</p>
+<p align="center">Fullstack JS developer passionate about game design and development</p>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/james-reid-3539091aa)
+[![Email](https://img.shields.io/badge/email-eA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:jamesreid3806@gmail.com)
+
+</div>
+
+```
+- 🔭 I’m currently working on building "impostori", a hex-based number game
+- 🌱 I’m currently learning to create better pixel art using aseprite
+- 💭 I'm working towards building fun and challenging puzzle and strategy games
+- 🍕 In my downtime I love to cook and share food with those around me
+- 🛩️ When the weather is nice I look forward to the opportunity to go flying
+```
+
+## About
+
+I'm a fullstack JS developer who is passionate about game design and development, and working towards creating my own puzzle and strategy games for everyone to enjoy. Although I can't say that I always succeed in creating software that fulfils these criteria, I value the following when making or reviewing any project, and hope that my work reflects this:
+
+- Responsible and accessible development
+    - Respect client bandwidth and resources, minimising bundle sizes and improving script performance where possible
+    - Avoid "wtf" design choices which waste a user's or other maintainer's time
+    - Make designs accessible both from a [human perspective](https://developer.mozilla.org/en-US/docs/Web/Accessibility), and also from a [software perspective](https://caniuse.com/)
+- Attention to detail and uniformity across a project
+- Good sense design - [keep it simple stupid](http://principles-wiki.net/principles:keep_it_simple_stupid)
+
+## Public Packages
+
+In order to prevent namespace collisions on package registries such as [npm](https://www.npmjs.com/), and to ring-fence my personal projects from those intended for public consumption, I reserve my personal github profile for repositories which are largely read-only, or do not need to be downloaded through a registry etc. Amongst others, this may include:
+
+- Repositories aimed at learning frameworks, languages, or algorithm implementations
+- Projects involving 
+- Forks of other repositories
+
+To view the repositories of my public packages, please see my organization page, [blameitonyourisp](https://github.com/blameitonyourisp).
 
 ## Tech Stack
 
-
+Take a look at the various languages, tools etc. that I use on a regular basis, or am learning for the purpose of building future projects.
 
 <details>
 <summary>Languages & Markup</summary>
@@ -150,22 +186,3 @@
 ![MacOS](https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos)
 
 </details>
-
-# 📊 GitHub Stats:
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimbob3806&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most used languages">
-
-<!--
-**jimbob3806/jimbob3806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
